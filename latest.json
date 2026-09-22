@@ -2,11 +2,11 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.22",
+  "version": "1.1.24",
   "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.22/pos-main_Setup_1.1.22.exe",
-  "sha256": "d3d68d572c1213ca9aa43900fcc10402fa7d84c59221d9160ecf45006ede5a20",
-  "filename": "pos-main_Setup_1.1.22.exe",
-  "size_bytes": 82519527,
+  "sha256": "22e10e04c7f1c5f996e98585c5709b051b97b6b5e71323ac72697e1fdaf9d6ee",
+  "filename": "pos-main_Setup_1.1.24.exe",
+  "size_bytes": 84320850,
   "published_at": "2026-09-22",
   "release_notes": "Accounting hub revenue fix bugs realtime update"
 }
