@@ -2,12 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.28",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.28/TacknWeldPOS_Secure_Setup_v1.1.28.exe",
-  "sha256": "63E81F7B5AB4C56ABCDA0855776752C3D0627D013DCF32793E1A4BF0ED3D1F1A",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.28.exe",
-  "size_bytes": 85332682,
-  "published_at": "2026-09-23",
-  "release_notes": "Fix bugs Accounting hub delayed revenue display JIMMY R DE UNGRIA"
+  "version": "1.1.29",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.29/TacknWeldPOS_Secure_Setup_v1.1.29.exe",
+  "sha256": "491A48F87DDA0D64B540B4F2AEF08A4C4D5B1373AA7AD29AEEE7AB5763BF8F04",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.29.exe",
+  "size_bytes": 85342728,
+  "published_at": "2026-09-24",
+  "release_notes": "FIX BUGS CARDS IMAGE"
 }
+
 
