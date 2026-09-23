@@ -2,11 +2,11 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.26",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.26/pos-main_Setup_1.1.26.exe",
-  "filename": "pos-main_Setup_1.1.26.exe",
-  "sha256": "91f8d12a48c84eeb61f77c2cfbe3808d3bb52da3ff5689ec88569cfaed7b63e6",
-  "size_bytes": 84335655,
+  "version": "1.1.27",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.27/TacknWeldPOS_Secure_Setup_v1.1.27.exe",
+  "sha256": "A8361F0D8988B90C9257BA1EE1432DCBAFF45EC71FF893DB39F7810A4C56105D",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.27.exe",
+  "size_bytes": 85332636,
   "published_at": "2026-09-23",
-  "release_notes": "Accounting hub revenue fix bugs realtime update version 1.1.26"
+  "release_notes": "Fixes accounting hub reveniew delayed display"
 }
