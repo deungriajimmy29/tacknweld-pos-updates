@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.29",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.29/TacknWeldPOS_Secure_Setup_v1.1.29.exe",
-  "sha256": "491A48F87DDA0D64B540B4F2AEF08A4C4D5B1373AA7AD29AEEE7AB5763BF8F04",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.29.exe",
-  "size_bytes": 85342728,
-  "published_at": "2026-09-24",
-  "release_notes": "FIX BUGS CARDS IMAGE"
+  "version": "1.1.30",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.30/TacknWeldPOS_Secure_Setup_v1.1.30.exe",
+  "sha256": "BD9FE959A8B9F269193C47982D6006EFE2696B69D9B49BD072DAC7F2EE610AF3",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.30.exe",
+  "size_bytes": 85389340,
+  "published_at": "2026-09-25",
+  "release_notes": "New subscriber dashboard"
 }
 
 
