@@ -2,14 +2,15 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.33",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.33/TacknWeldPOS_Secure_Setup_v1.1.33.exe",
-  "sha256": "2E02FB6806C277994ABD543C55A0884FD38D94971DA26C68EF85F5293CC4049A",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.33.exe",
-  "size_bytes": 85610167,
+  "version": "1.1.34",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.34/TacknWeldPOS_Secure_Setup_v1.1.34.exe",
+  "sha256": "450D43A4EA41E2C67F8729B3BC4DED8BA0EFBFB59B071016A38321865E1DD79D",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.34.exe",
+  "size_bytes": 85727906,
   "published_at": "2026-09-25",
-  "release_notes": "new feature option b window"
+  "release_notes": "Major updates"
 }
+
 
 
 
