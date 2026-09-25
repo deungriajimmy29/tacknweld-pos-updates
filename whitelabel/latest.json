@@ -2,12 +2,13 @@
   "schema": 2,
   "product_id": "tacknweld-pos-whitelabel",
   "channel": "stable",
-  "version": "1.1.32",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/tacknweld-pos-whitelabel-v1.1.32/tacknweld-pos-whitelabel_Setup_1.1.32.exe",
-  "filename": "tacknweld-pos-whitelabel_Setup_1.1.32.exe",
-  "size_bytes": 84547593,
-  "sha256": "0601c7bbcb1378a82ca4cf83047a1caad5a0145400bcc67eebeea94b05d53044",
-  "published_at": "2026-09-25T08:34:28Z",
-  "release_notes": "White-label POS improvements and fixes sms job order 1.1.32."
+  "version": "1.1.33",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/tacknweld-pos-whitelabel-v1.1.33/tacknweld-pos-whitelabel_Setup_1.1.33.exe",
+  "filename": "tacknweld-pos-whitelabel_Setup_1.1.33.exe",
+  "size_bytes": 84701281,
+  "sha256": "9429e86215871d8f5e9c3861927a4bfba41f41529f1083415c2e6f676e4a983b",
+  "published_at": "2026-09-25T13:32:56Z",
+  "release_notes": "White-label POS improvements and fixes for version 1.1.33."
 }
+
 
