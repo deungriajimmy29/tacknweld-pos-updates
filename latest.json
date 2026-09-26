@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.36",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.36/TacknWeldPOS_Secure_Setup_v1.1.36.exe",
-  "sha256": "F1B7D92F86AA966CCF0B1A744E3B403862D8CD2F9F54C244F856C3EAEC3E272A",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.36.exe",
-  "size_bytes": 85742872,
-  "published_at": "2026-09-26",
-  "release_notes": "Fix delayed 2 seconds prints on settle payment na fix ko na mas agresssive na"
+  "version": "1.1.37",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.37/TacknWeldPOS_Secure_Setup_v1.1.37.exe",
+  "sha256": "87FEF1C46109F44ED883CFFB6A83150153AD14D63B589124466E06F85A64E856",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.37.exe",
+  "size_bytes": 85785824,
+  "published_at": "2026-09-27",
+  "release_notes": "fix accounting hub window slow delay"
 }
 
 
