@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.38",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.38/TacknWeldPOS_Secure_Setup_v1.1.38.exe",
-  "sha256": "F9A7A32B53A843D2988E613085CF3B1B4D1B703E981EFDF8564381390159D95C",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.38.exe",
-  "size_bytes": 85788198,
+  "version": "1.1.39",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.39/TacknWeldPOS_Secure_Setup_v1.1.39.exe",
+  "sha256": "EFE867173D9375BC37D78BBC667A90907720A1E07DCED8C38758F177DDBDFDB8",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.39.exe",
+  "size_bytes": 85798712,
   "published_at": "2026-09-27",
-  "release_notes": "added new feature editable total amount on settle payment"
+  "release_notes": "Fix bugs delay notifs on accounting hub and music save data"
 }
 
 
