@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.37",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.37/TacknWeldPOS_Secure_Setup_v1.1.37.exe",
-  "sha256": "87FEF1C46109F44ED883CFFB6A83150153AD14D63B589124466E06F85A64E856",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.37.exe",
-  "size_bytes": 85785824,
+  "version": "1.1.38",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.38/TacknWeldPOS_Secure_Setup_v1.1.38.exe",
+  "sha256": "F9A7A32B53A843D2988E613085CF3B1B4D1B703E981EFDF8564381390159D95C",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.38.exe",
+  "size_bytes": 85788198,
   "published_at": "2026-09-27",
-  "release_notes": "fix accounting hub window slow delay"
+  "release_notes": "added new feature editable total amount on settle payment"
 }
 
 
