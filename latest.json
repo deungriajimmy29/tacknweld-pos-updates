@@ -2,14 +2,15 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.40",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.40/TacknWeldPOS_Secure_Setup_v1.1.40.exe",
-  "sha256": "FD13B990D58434AC05E4E3921815CAC99958B75C30583612B7C66FC493AB208E",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.40.exe",
-  "size_bytes": 85804105,
+  "version": "1.1.41",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.41/TacknWeldPOS_Secure_Setup_v1.1.41.exe",
+  "sha256": "35F68DEB4A384E20DB7D780CBCD93414F758260CFF623A5987EE581FA18D0592",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.41.exe",
+  "size_bytes": 85797582,
   "published_at": "2026-09-28",
-  "release_notes": "Fix pdf viewing on job order"
+  "release_notes": "fix job media photos small to large"
 }
+
 
 
 
