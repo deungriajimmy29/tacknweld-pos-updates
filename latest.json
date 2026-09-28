@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.41",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.41/TacknWeldPOS_Secure_Setup_v1.1.41.exe",
-  "sha256": "35F68DEB4A384E20DB7D780CBCD93414F758260CFF623A5987EE581FA18D0592",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.41.exe",
-  "size_bytes": 85797582,
+  "version": "1.1.42",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.42/TacknWeldPOS_Secure_Setup_v1.1.42.exe",
+  "sha256": "395F455115C4650B90E8E0A3EFCA994F13F6A42314C5D5BC3A2614CF486C7E64",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.42.exe",
+  "size_bytes": 85812825,
   "published_at": "2026-09-28",
-  "release_notes": "fix job media photos small to large"
+  "release_notes": "Fix bugs unknown label"
 }
 
 
