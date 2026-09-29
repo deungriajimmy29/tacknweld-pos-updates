@@ -2,15 +2,14 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.45",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.45/TacknWeldPOS_Secure_Setup_v1.1.45.exe",
-  "sha256": "874E1EF45F917A1FCC1C3FB3CA06B1E0A6BBAA8BA04B874EC6D84F77439D06BA",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.45.exe",
-  "size_bytes": 85830025,
-  "published_at": "2026-09-29",
-  "release_notes": "Fix vat receipt incorrect output"
+  "version": "1.1.46",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.46/TacknWeldPOS_Secure_Setup_v1.1.46.exe",
+  "sha256": "21CFFBDD2457B01201B9C27DB889A2E9A8AA13B8695009513FEB79AAD11C3057",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.46.exe",
+  "size_bytes": 85863142,
+  "published_at": "2026-09-30",
+  "release_notes": "added new tin input and email address"
 }
-
 
 
 
