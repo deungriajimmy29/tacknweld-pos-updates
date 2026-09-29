@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.46",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.46/TacknWeldPOS_Secure_Setup_v1.1.46.exe",
-  "sha256": "21CFFBDD2457B01201B9C27DB889A2E9A8AA13B8695009513FEB79AAD11C3057",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.46.exe",
-  "size_bytes": 85863142,
+  "version": "1.1.47",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.47/TacknWeldPOS_Secure_Setup_v1.1.47.exe",
+  "sha256": "713ECC8222A1C9F3B98A00587E368B96A001193A2DC6BE6E9EF3EB30C3AF3082",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.47.exe",
+  "size_bytes": 85867633,
   "published_at": "2026-09-30",
-  "release_notes": "added new tin input and email address"
+  "release_notes": "Update Vat Type"
 }
 
 
