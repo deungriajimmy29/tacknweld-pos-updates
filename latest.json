@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.48",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.48/TacknWeldPOS_Secure_Setup_v1.1.48.exe",
-  "sha256": "462D64F2EE6E0C38730FDDD752913AA722BE1F1E2A8A8BBF88C6B1B85ECC37E0",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.48.exe",
-  "size_bytes": 85887433,
-  "published_at": "2026-09-30",
-  "release_notes": "Fix minor bugs "
+  "version": "1.1.51",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.51/TacknWeldPOS_Secure_Setup_v1.1.51.exe",
+  "sha256": "038AC94B01E06745523B089291A30306333055E1FBC07C0D0BA220F71C50B12D",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.51.exe",
+  "size_bytes": 24510054,
+  "published_at": "2026-10-03",
+  "release_notes": "major update for bir compliance"
 }
 
 
