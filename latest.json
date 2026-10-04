@@ -2,14 +2,15 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.53",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.53/TacknWeldPOS_Secure_Setup_v1.1.53.exe",
-  "sha256": "301F00039C4EE90CEABBF38E5C19E71682783E74FC90C08EBC634254B1F0B2E9",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.53.exe",
-  "size_bytes": 78279271,
+  "version": "1.1.54",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.54/TacknWeldPOS_Secure_Setup_v1.1.54.exe",
+  "sha256": "F960980454AC3258D5C6C9A82CD81C3E696D1A95A42C716827DD9DA1FDF9498E",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.54.exe",
+  "size_bytes": 80026525,
   "published_at": "2026-10-04",
-  "release_notes": "TacknWeld POS improvements and fixes for version 1.1.53."
+  "release_notes": "fix posgre connection"
 }
+
 
 
 
