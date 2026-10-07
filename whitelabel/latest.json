@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "tacknweld-pos-whitelabel",
   "channel": "stable",
-  "version": "1.1.55",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/tacknweld-pos-whitelabel-v.1.1.55/tacknweld-pos-whitelabel_Setup_1.1.55.exe",
-  "filename": "tacknweld-pos-whitelabel_Setup_1.1.55.exe",
-  "size_bytes": 78993347,
-  "sha256": "41e37d6ba4caf4228b5bcea97686eee7fa39947deaa8f8dd7781e39600de3a3b",
-  "published_at": "2026-10-06T08:59:41Z",
-  "release_notes": "White-label POS improvements and fixes for version 1.1.55."
+  "version": "1.1.59",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/tacknweld-pos-whitelabel-v1.1.59/tacknweld-pos-whitelabel_Setup_1.1.59.exe",
+  "filename": "tacknweld-pos-whitelabel_Setup_1.1.59.exe",
+  "size_bytes": 79232824,
+  "sha256": "0c0de348dd39ff4091dac293f0b36970353777dd85269cee96f68fa632e16684",
+  "published_at": "2026-10-07T14:48:10Z",
+  "release_notes": "White-label POS improvements and fixes for version 1.1.59."
 }
 
 
