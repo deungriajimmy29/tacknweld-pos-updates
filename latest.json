@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.56",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.56/TacknWeldPOS_Secure_Setup_v1.1.56.exe",
-  "sha256": "B1097AF4DF99A7A64F0138DE35FCB86D37E7BF61E478C74C24273D768CAEEE1D",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.56.exe",
-  "size_bytes": 80021946,
+  "version": "1.1.57",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.57/TacknWeldPOS_Secure_Setup_v1.1.57.exe",
+  "sha256": "A3E9D034CE16BDB0C6725613FF158782D0219A456710F283A62988B2741B4398",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.57.exe",
+  "size_bytes": 80090338,
   "published_at": "2026-10-07",
-  "release_notes": "sms activated pautang"
+  "release_notes": "adding new feature and fic some bugs"
 }
 
 
