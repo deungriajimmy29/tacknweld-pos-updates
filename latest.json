@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.58",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.58/TacknWeldPOS_Secure_Setup_v1.1.58.exe",
-  "sha256": "A4E40BC114EB1365FA9CD6EA993AE91AF284BB4ABE28193A90908727B6983585",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.58.exe",
-  "size_bytes": 80143255,
+  "version": "1.1.59",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.59/TacknWeldPOS_Secure_Setup_v1.1.59.exe",
+  "sha256": "FAD6ABD0C36AF16C95A44BD4478AB8483D398B153D9FAE81AEF3A7759F15238F",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.59.exe",
+  "size_bytes": 80235534,
   "published_at": "2026-10-07",
-  "release_notes": "Update editable pautang details "
+  "release_notes": "New update quick sms contact number"
 }
 
 
