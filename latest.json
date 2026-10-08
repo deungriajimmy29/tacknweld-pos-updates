@@ -2,14 +2,15 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.59",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.59/TacknWeldPOS_Secure_Setup_v1.1.59.exe",
-  "sha256": "FAD6ABD0C36AF16C95A44BD4478AB8483D398B153D9FAE81AEF3A7759F15238F",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.59.exe",
-  "size_bytes": 80235534,
-  "published_at": "2026-10-07",
-  "release_notes": "New update quick sms contact number"
+  "version": "1.1.60",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.60/TacknWeldPOS_Secure_Setup_v1.1.60.exe",
+  "sha256": "3B336B8816C5C2501FD14A1C36E0AB4C1BFBCF4C60D20AF1992249D7D5F6EF3E",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.60.exe",
+  "size_bytes": 80326035,
+  "published_at": "2026-10-08",
+  "release_notes": "New Feature Staff Identification"
 }
+
 
 
 
