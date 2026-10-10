@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.60",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.60/TacknWeldPOS_Secure_Setup_v1.1.60.exe",
-  "sha256": "3B336B8816C5C2501FD14A1C36E0AB4C1BFBCF4C60D20AF1992249D7D5F6EF3E",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.60.exe",
-  "size_bytes": 80326035,
-  "published_at": "2026-10-08",
-  "release_notes": "New Feature Staff Identification"
+  "version": "1.1.61",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.61/TacknWeldPOS_Secure_Setup_v1.1.61.exe",
+  "sha256": "17255C00517540BE8F161A3E50773F642868BB4F1427CC97DF1C83E24C63F457",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.61.exe",
+  "size_bytes": 80419417,
+  "published_at": "2026-10-10",
+  "release_notes": "Sari-Sari Store Added feature"
 }
 
 
