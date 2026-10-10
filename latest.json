@@ -2,14 +2,15 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.62",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.62/TacknWeldPOS_Secure_Setup_v1.1.62.exe",
-  "sha256": "3C993E1DD65C8F40663DC5DCB0264FB97AAE1A6F2CD200DF0D2520BD22DAB0BF",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.62.exe",
-  "size_bytes": 80586106,
+  "version": "1.1.63",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.63/TacknWeldPOS_Secure_Setup_v1.1.63.exe",
+  "sha256": "A1E76CC15240CB0679B83930EF375288A2407E49A205815C2A04BBEC96D403E9",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.63.exe",
+  "size_bytes": 80145679,
   "published_at": "2026-10-10",
-  "release_notes": "New Feature Business Tools"
+  "release_notes": "NEW UPDATE PRODUCT BAR CODE"
 }
+
 
 
 
