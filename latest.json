@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.63",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.63/TacknWeldPOS_Secure_Setup_v1.1.63.exe",
-  "sha256": "A1E76CC15240CB0679B83930EF375288A2407E49A205815C2A04BBEC96D403E9",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.63.exe",
-  "size_bytes": 80145679,
-  "published_at": "2026-10-10",
-  "release_notes": "NEW UPDATE PRODUCT BAR CODE"
+  "version": "1.1.64",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.64/TacknWeldPOS_Secure_Setup_v1.1.64.exe",
+  "sha256": "0E1D0CDBA8922D21F7BC95288B60DAD60D21AD68D3BB19F595BCDCDB1717A1BB",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.64.exe",
+  "size_bytes": 80349167,
+  "published_at": "2026-10-12",
+  "release_notes": "Added new feature warranty certificate and other tools"
 }
 
 
