@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.67",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.67/TacknWeldPOS_Secure_Setup_v1.1.67.exe",
-  "sha256": "095E75277286F1DA9A94F59E50CAC657197148B9E9201ABC1191FAF1BC78AD4B",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.67.exe",
-  "size_bytes": 80617851,
-  "published_at": "2026-10-13",
-  "release_notes": "Update for online payment qr code"
+  "version": "1.1.68",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.68/TacknWeldPOS_Secure_Setup_v1.1.68.exe",
+  "sha256": "B5C0F0D49F26C769A5CF5CC00FC398297D5229B969B081853CEC53FDAE223400",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.68.exe",
+  "size_bytes": 80656926,
+  "published_at": "2026-10-14",
+  "release_notes": "online proof added new feature"
 }
 
 
