@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.68",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.68/TacknWeldPOS_Secure_Setup_v1.1.68.exe",
-  "sha256": "B5C0F0D49F26C769A5CF5CC00FC398297D5229B969B081853CEC53FDAE223400",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.68.exe",
-  "size_bytes": 80656926,
-  "published_at": "2026-10-14",
-  "release_notes": "online proof added new feature"
+  "version": "1.1.69",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.69/TacknWeldPOS_Secure_Setup_v1.1.69.exe",
+  "sha256": "97C59412A925CD686E632F7CB77C0831D4A3906EDAEF5260B41EEAB8F643D095",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.69.exe",
+  "size_bytes": 80730642,
+  "published_at": "2026-10-16",
+  "release_notes": "JOB TRACKER UPDATE"
 }
 
 
