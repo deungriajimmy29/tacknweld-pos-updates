@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.69",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.69/TacknWeldPOS_Secure_Setup_v1.1.69.exe",
-  "sha256": "97C59412A925CD686E632F7CB77C0831D4A3906EDAEF5260B41EEAB8F643D095",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.69.exe",
-  "size_bytes": 80730642,
-  "published_at": "2026-10-16",
-  "release_notes": "JOB TRACKER UPDATE"
+  "version": "1.1.70",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.70/TacknWeldPOS_Secure_Setup_v1.1.70.exe",
+  "sha256": "F9CFD670DC80D603B7973A84EC43D797172A547C524373C6617000EEBAD34C6C",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.70.exe",
+  "size_bytes": 80735860,
+  "published_at": "2026-10-19",
+  "release_notes": "Update receipt service tag"
 }
 
 
