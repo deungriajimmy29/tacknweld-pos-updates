@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.71",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.71/TacknWeldPOS_Secure_Setup_v1.1.71.exe",
-  "sha256": "ED14CAF885224FEFC55857306483E353A2D559FF38D4E26E0BA2A9B2918B6558",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.71.exe",
-  "size_bytes": 80735583,
-  "published_at": "2026-10-22",
-  "release_notes": "Fix issue of executive report"
+  "version": "1.1.72",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.72/TacknWeldPOS_Secure_Setup_v1.1.72.exe",
+  "sha256": "969506EF50E39AF53F9978B082D78098948A150C6F947C3BFD7F5E192533E0EE",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.72.exe",
+  "size_bytes": 80760469,
+  "published_at": "2026-10-23",
+  "release_notes": "Update wide receipt"
 }
 
 
