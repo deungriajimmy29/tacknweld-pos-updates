@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.70",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.70/TacknWeldPOS_Secure_Setup_v1.1.70.exe",
-  "sha256": "F9CFD670DC80D603B7973A84EC43D797172A547C524373C6617000EEBAD34C6C",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.70.exe",
-  "size_bytes": 80735860,
-  "published_at": "2026-10-19",
-  "release_notes": "Update receipt service tag"
+  "version": "1.1.71",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.71/TacknWeldPOS_Secure_Setup_v1.1.71.exe",
+  "sha256": "ED14CAF885224FEFC55857306483E353A2D559FF38D4E26E0BA2A9B2918B6558",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.71.exe",
+  "size_bytes": 80735583,
+  "published_at": "2026-10-22",
+  "release_notes": "Fix issue of executive report"
 }
 
 
