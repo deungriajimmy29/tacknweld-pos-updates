@@ -2,14 +2,15 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.76",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.76/TacknWeldPOS_Secure_Setup_v1.1.76.exe",
-  "sha256": "73FA2E80784328C58E3BF27CB9F7555CD4578AA9EE7A79CBB646B6B8A7965227",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.76.exe",
-  "size_bytes": 80824792,
+  "version": "1.1.77",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.77/TacknWeldPOS_Secure_Setup_v1.1.77.exe",
+  "sha256": "5F31CED0C25046F3F3B683C0B3AFE0FF38DD467E6D1CCD9121CA887F830D2CDA",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.77.exe",
+  "size_bytes": 80852003,
   "published_at": "2026-10-24",
-  "release_notes": "Wide receipt update small logo"
+  "release_notes": "Reset invoice number new feature for this apps"
 }
+
 
 
 
