@@ -2,13 +2,13 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.77",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.77/TacknWeldPOS_Secure_Setup_v1.1.77.exe",
-  "sha256": "5F31CED0C25046F3F3B683C0B3AFE0FF38DD467E6D1CCD9121CA887F830D2CDA",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.77.exe",
-  "size_bytes": 80852003,
-  "published_at": "2026-10-24",
-  "release_notes": "Reset invoice number new feature for this apps"
+  "version": "1.1.78",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.78/TacknWeldPOS_Secure_Setup_v1.1.78.exe",
+  "sha256": "3E8589F27D4E9137E2E582C1788104581ED4B365C0C72E66A6D98803438370E2",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.78.exe",
+  "size_bytes": 80845543,
+  "published_at": "2026-10-25",
+  "release_notes": "Fix top sales alltime issue"
 }
 
 
