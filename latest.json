@@ -2,14 +2,15 @@
   "schema": 2,
   "product_id": "pos-main",
   "channel": "stable",
-  "version": "1.1.79",
-  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.79/TacknWeldPOS_Secure_Setup_v1.1.79.exe",
-  "sha256": "484CF5866FA8F16B84ACC4813DA01C4ECDD9BAC2A48465A1235476FA5DC53755",
-  "filename": "TacknWeldPOS_Secure_Setup_v1.1.79.exe",
-  "size_bytes": 80865013,
+  "version": "1.1.80",
+  "download_url": "https://github.com/deungriajimmy29/tacknweld-pos-updates/releases/download/v1.1.80/TacknWeldPOS_Secure_Setup_v1.1.80.exe",
+  "sha256": "38DCDFC22619E5A5B717ED8C1B2510EAB1794670FC742975F73FDC6B1503DA52",
+  "filename": "TacknWeldPOS_Secure_Setup_v1.1.80.exe",
+  "size_bytes": 80933492,
   "published_at": "2026-10-25",
-  "release_notes": "Bir unlock date"
+  "release_notes": "date unlock added admin password"
 }
+
 
 
 
